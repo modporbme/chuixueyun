@@ -107,7 +107,7 @@
 
 测流媒体时先过身份关，再谈 1080p 和更高档位。把 4K 放在第一步，只会得到「卡」这个没有信息量的词。播放器若开着自动清晰度，高峰时它会主动降档，那时你测到的是策略，不是吞吐。
 
-![](https://github.com/modporbme/chuixueyun/raw/main/chuixueyun/MiaoKo-%20.xyz-7910-analyze.png)
+![](https://github.com/modporbme/chuixueyun/blob/main/chuixueyun/MiaoKo-%20.cc-8573-test.png)
 
 ## Clash 订阅与多端导入
 
