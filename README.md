@@ -4,8 +4,8 @@
 > 更新：2026-09-19 · 开业：2026-06  
 > 本文只做公开信息核对与使用说明，价格与库存以 [吹雪云官网 chuixueyun.com](https://www.chuixueyun.com/) 结算页为准。
 
-[![官网](chuixueyun.com)](https://www.chuixueyun.com/)
-[![备用](kateyun.org)](https://www.kateyun.org)
+[chuixueyun.com](https://www.chuixueyun.com/)
+[kateyun.org](https://www.kateyun.org)
 
 
 ---
