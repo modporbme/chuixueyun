@@ -26,7 +26,7 @@
 
 ## 这份评测要解决什么
 
-真实客观评测「吹雪云」线路质量，方便读者参考。**吹雪云官网是 [chuixueyun.com](https://chuixueyun.com/) **。
+真实客观评测「吹雪云」线路质量，方便读者参考。**吹雪云官网是 [chuixueyun.com](https://www.chuixueyun.com/) **。
 
 吹雪云是 2026 年 6 月开业的订阅制机场（机场 = 科学上网节点订阅服务）。它不绑定自制 App，用户中心给出 Clash / Shadowsocks / Trojan / V2Ray 一类通用订阅。官方频道口号是 Amazon 线路、四网优化、不记录日志、2 元起。公开复测则更冷静：单价和 1 倍率站得住，高峰体感会随日期跳。
 
@@ -38,8 +38,8 @@
 
 | 用途 | 地址 |
 | --- | --- |
-| 吹雪云官网（主站） | https://chuixueyun.com/ |
-| 备用域名 | https://kateyun.org/ |
+| 吹雪云官网（主站） | chuixueyun.com |
+| 备用域名 | kateyun.org |
 
 搜索广告里的「吹雪云代充」「破解客户端」「高仿拼音站」直接忽略。本仓库若被转发，也请以 chuixueyun.com 为准回源。官网打不开时，先确认自己的网络是否正常，再怀疑域名更换；域名真换了，以本仓库和官网互相印证，不要只记住某一个镜像。
 
@@ -81,7 +81,7 @@
 
 设备数按**同时在线**计。电脑合盖后客户端仍占隧道，路由器、电视后台刷新各占一条。雪花 8 台有时比 128G 更先见底。全家共用前先数晚上 9 点可能同时开着的屏幕，再决定要不要从雪堆升到雪山。
 
-下单只在 [chuixueyun.com](https://chuixueyun.com/) 用户中心完成。
+下单只在 [chuixueyun.com](https://www.chuixueyun.com/) 用户中心完成。
 
 ## 线路与晚高峰情况
 
@@ -108,7 +108,7 @@
 
 ## Clash 订阅与多端导入
 
-吹雪云不锁官方客户端。到 [chuixueyun.com](https://chuixueyun.com/) 登录用户中心，复制 Clash / 通用订阅即可。
+吹雪云不锁官方客户端。到 [chuixueyun.com](https://www.chuixueyun.com/) 登录用户中心，复制 Clash / 通用订阅即可。
 
 推荐路径：
 
@@ -162,7 +162,7 @@
 
 ## 下单顺序
 
-1. 打开 [https://chuixueyun.com/](https://chuixueyun.com/) ，确认域名无误后再注册。  
+1. 打开 [chuixueyun.com](https://www.chuixueyun.com/) ，确认域名无误后再注册。  
 2. 先看仪表盘试用或最低档是否到账，不要连续下两单。  
 3. 导入 Clash，规则模式完成国内外各一页的连通性检查。  
 4. 按自己的运营商选择线路，不要把完整列表交给全自动。  
@@ -171,4 +171,4 @@
 
 ---
 
-**回源声明：** 评测可以转载，官网链接请保持为 [chuixueyun.com](https://chuixueyun.com/ )。套餐、节点、试用规则以吹雪云官网用户中心为准。
+**回源声明：** 评测可以转载，官网链接请保持为 [chuixueyun.com](https://www.chuixueyun.com/ )。套餐、节点、试用规则以吹雪云官网用户中心为准。
