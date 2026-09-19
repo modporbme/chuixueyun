@@ -5,6 +5,7 @@
 > 本文只做公开信息核对与使用说明，价格与库存以 [吹雪云官网 chuixueyun.com](https://www.chuixueyun.com/) 结算页为准。
 
 [官网](https://www.chuixueyun.com/)
+
 [备用](https://www.kateyun.org)
 
 
@@ -38,8 +39,8 @@
 
 | 用途 | 地址 |
 | --- | --- |
-| 吹雪云官网（主站） | chuixueyun.com |
-| 备用域名 | kateyun.org |
+| 吹雪云官网（主站） | [官网](https://www.chuixueyun.com/) |
+| 备用域名 | [备用](https://www.kateyun.org) |
 
 搜索广告里的「吹雪云代充」「破解客户端」「高仿拼音站」直接忽略。本仓库若被转发，也请以 chuixueyun.com 为准回源。官网打不开时，先确认自己的网络是否正常，再怀疑域名更换；域名真换了，以本仓库和官网互相印证，不要只记住某一个镜像。
 
