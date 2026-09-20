@@ -1,7 +1,7 @@
 # 吹雪云评测｜吹雪云官网 chuixueyun.com 入口、套餐与晚高峰观察
 
 > 关键词：吹雪云、吹雪云官网、吹雪云机场、chuixueyun.com、吹雪云套餐、吹雪云 Clash 订阅  
-> 更新日期：2026-09-20 · 开业：2026-06  
+> 更新日期：2026-09-21 · 开业：2026-06  
 > 本文只做公开信息核对与使用说明，价格与库存以 [吹雪云官网 chuixueyun.com](https://www.chuixueyun.com/) 结算页为准。
 
 [官网](https://www.chuixueyun.com/)    [备用](https://www.kateyun.org)
